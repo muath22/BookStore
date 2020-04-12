@@ -1,1 +1,10 @@
-APP_CONFIG=config.py
+APP_CONFIG=AddReview.py
+APP_CONFIG=AdminPage.py
+APP_CONFIG=BookInformationPage.py
+APP_CONFIG=BuyBook.py
+APP_CONFIG=LogInPage.py
+APP_CONFIG=Message.py
+APP_CONFIG=NewBookPage.py
+APP_CONFIG=SignInPage.py
+APP_CONFIG=UserPage.py
+APP_CONFIG=WelcomePage.py
